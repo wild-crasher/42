@@ -1,0 +1,8 @@
+# creer les fichiers objets
+gcc - c *.c
+# creer une library avec les *.o
+ar rc libft.a *.o
+# indexer la library
+ranlib libft.a
+# virer les fichiers objets
+rm -f *.o

@@ -1,0 +1,1 @@
+j06/ex00/libft_creator.sh
