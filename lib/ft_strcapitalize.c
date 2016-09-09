@@ -1,0 +1,1 @@
+../j05/ex07/ft_strcapitalize.c

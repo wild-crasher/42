@@ -1,0 +1,1 @@
+../j05/ex01/ft_strncpy.c

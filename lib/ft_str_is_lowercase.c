@@ -1,0 +1,1 @@
+../j05/ex10/ft_str_is_lowercase.c

@@ -1,0 +1,1 @@
+../j05/ex06/ft_strlowercase.c

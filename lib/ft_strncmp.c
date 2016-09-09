@@ -1,0 +1,1 @@
+../j05/ex04/ft_strncmp.c

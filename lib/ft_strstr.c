@@ -1,0 +1,1 @@
+../j05/ex02/ft_strstr.c

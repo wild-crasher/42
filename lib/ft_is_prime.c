@@ -1,0 +1,1 @@
+../j04/ex06/ft_is_prime.c

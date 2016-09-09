@@ -1,0 +1,1 @@
+../j03/ex06/ft_strlen.c

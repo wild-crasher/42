@@ -1,0 +1,1 @@
+../j02/ex06/ft_putnbr.c

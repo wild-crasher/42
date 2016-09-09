@@ -1,0 +1,1 @@
+../j05/ex14/ft_strncat.c
